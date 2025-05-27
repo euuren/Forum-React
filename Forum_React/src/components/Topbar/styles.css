@@ -1,0 +1,45 @@
+.top-bar {
+    background-color: #f8f9fa;
+    padding: 10px 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.bg-body-tertiary {
+    background-color: #f8f9fa !important;
+}
+
+.navbar {
+    padding: 0;
+}
+
+.navbar-brand {
+    font-size: 1.4rem;
+    font-weight: 500;
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+.nav-link {
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+.nav-link.active {
+    color: #007bff;
+    font-weight: bold;
+}
+
+.search-bar {
+    width: 640px;
+}
+

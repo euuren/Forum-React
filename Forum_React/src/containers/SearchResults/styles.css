@@ -1,0 +1,19 @@
+.question-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #007bff;
+    text-decoration: none;
+}
+
+.question-title:hover {
+    text-decoration: underline;
+}
+
+.search-results-page .main-content {
+    padding-top: 50px;
+}
+
+.badge {
+    font-size: 1.0em;
+    margin-right: 5px;
+  }

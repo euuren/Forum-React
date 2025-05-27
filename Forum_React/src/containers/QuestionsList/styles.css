@@ -1,0 +1,12 @@
+.btn-outline-primary.btn-active {
+    background-color: #0d6efd;
+    color: white;
+  }
+  
+  .btn-outline-primary {
+    transition: all 0.3s ease;
+  }
+  
+  .filter-buttons {
+    margin-bottom: 1rem;
+  }

@@ -1,0 +1,13 @@
+.search-results-page {
+    padding-top: 50px;
+}
+
+.main-content {
+    padding-top: 0;
+}
+
+/* Ensure table rows are compact */
+.table tbody tr td {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+}
