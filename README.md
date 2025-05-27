@@ -1,30 +1,32 @@
 # Forum-React
 Project Overview
+
 This is a Q&A Forum System (similar to Stack Overflow) built with:
 
 Frontend: React (with React Router)
 
 Backend: ExpressJS (RESTful API)
 
-Database: [MongoDB / PostgreSQL / MySQL] (specify yours)
+Database: MongoDB
 
-🔹 Features Implemented
-✅ User Management
+Features Implemented
+
+1. User Management
 
 Registration, Login, Logout
 
 Profile View & Management (Username, Email, Profile Picture, Bio)
 
-✅ Question Management
+2. Question Management
 
 Post, View, Edit, Delete Questions
 
 Sorting & Filtering (Recent, Hot, Tags)
 
-✅ Answer Management
+3. Answer Management
 
 Post, View, Edit, Delete Answers
 
-✅ Voting System
+4. Voting System
 
 Upvote/Downvote Questions & Answers (Toggleable)
